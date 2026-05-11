@@ -7,7 +7,7 @@
 
 ## The workflow — what goes in, what the AI does, what comes out, and who acts on it, including screenshots
 For lab 2, the user inputs a message, for example, "I am low on food to feed my family tonight. I live in downtown San Jose" AI is then asked to find nearby food banks and pantries in downtown San Jose. AI generates a list of immediate food options in downtown San Jose along with the address, phone number, and hours of operation. It also generates other resources, such as free service that connects the user to food assistance services and tips on dealing with low food accessibility. The user is given all the information AI could provide to act on their issue with food insecurity. 
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/7f23d244-36fa-4b0c-a217-00c9fef4aae4" />
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/7f23d244-36fa-4b0c-a217-00c9fef4aae4" />
 <img width="1278" height="609" alt="image" src="https://github.com/user-attachments/assets/9a682218-5b6e-458b-8d22-bebc69f3c1e3" />
 <img width="1277" height="306" alt="image" src="https://github.com/user-attachments/assets/8a457de6-d767-48b7-8e5c-af2fcb334c20" />
 

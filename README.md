@@ -20,6 +20,7 @@ For lab 3, the user inputs a screenshot of their current location on a map. AI a
 <img width="1280" height="261" alt="image" src="https://github.com/user-attachments/assets/227fde3f-70c0-4ee9-af52-be4c901ae125" />
 
 ## One failure case tied to a lab output
-In regards to a failure case tied to a lab output, we ran into a problem relating to a request for all locations tied to food assistance captured in an image uploaded by the user in which the AI is supposed to take that location and analyze the surrounding area, but instead gives us the response of "Based on the map image provided, there are no locations explicitly labeled as "food banks" or "food pantries." taking our request too literally and only analyzing the photo, not the location based on the photo.
+In regards to a failure case tied to a lab output, we ran into a problem relating to a request for all locations tied to food assistance captured in an image uploaded by the user in which the AI is supposed to take that location and analyze the surrounding area, but instead gives us the response of "Based on the map image provided, there are no locations explicitly labeled as "food banks" or "food pantries." taking our request too literally and only analyzing the photo, not the location based on the photo. Output pictured below:
+<img width="3252" height="172" alt="image" src="https://github.com/user-attachments/assets/68ca171b-2d46-4598-8012-680f9a051013" />
 
 ## Oversight and Tradeoff — Where does human review sit, and what does the one change cost?

@@ -1,4 +1,5 @@
-# ai-social-good-project - Alyssa Antonio and Kit Wong
+# ai-social-good-project 
+# By Alyssa Antonio and Kit Wong
 ## The problem and who it affects
   Residents in San Jose are dealing with food insecurity. The primary issue is not shortage of food, but rather a lack of reliable and easily accessible information. Some factors contributing to food insecurity in the city are affordability, due to high cost of living, and accessibility. This deeply affects low-income residents in neighborhoods where grocery options are limited and cost of living is high to the point where they have to choose between utilities and food. Our system is also suitable for the elderly who also struggle with food access and guidance with applying for food assistance. Although food banks and assistance programs do exist, residents in the area struggle to find updated information about resources closest to them. Numerous individuals also fail to determine their eligibility for food assistance, such as CalFresh, and end up missing out on the helpful benefits.
   

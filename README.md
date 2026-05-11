@@ -20,4 +20,4 @@ For lab 3, the user inputs a screenshot of their current location on a map. AI a
 
 ## One failure case tied to a lab output
 
-## The oversight decision and the one change, each with its tradeoff stated.
+## Oversight and Tradeoff — Where does human review sit, and what does the one change cost?
